@@ -1,0 +1,6 @@
+[submodule "natasha-uk-py"]
+	path = natasha-uk-py
+	url = https://github.com/SichYuriy/natasha-uk-py.git
+[submodule "natasha-uk-starter"]
+	path = natasha-uk-starter
+	url = https://github.com/SichYuriy/natasha-uk-starter.git
