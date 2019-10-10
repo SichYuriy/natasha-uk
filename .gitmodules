@@ -4,3 +4,6 @@
 [submodule "natasha-uk-starter"]
 	path = natasha-uk-starter
 	url = https://github.com/SichYuriy/natasha-uk-starter.git
+[submodule "natasha-uk-test"]
+	path = natasha-uk-test
+	url = https://github.com/SichYuriy/natasha-uk-test.git
